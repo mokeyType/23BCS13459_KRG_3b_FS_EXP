@@ -1,0 +1,7 @@
+.main_container{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(33, 33, 33);
+  color: white;
+  box-sizing: border-box;
+}
